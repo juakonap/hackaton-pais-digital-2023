@@ -9,6 +9,7 @@ backcall==0.2.0
 backoff==2.2.1
 bcrypt==4.0.1
 beautifulsoup4==4.12.2
+bs4==0.0.1
 certifi==2023.7.22
 cffi==1.15.1
 chardet==5.2.0
@@ -20,7 +21,7 @@ colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.1.4
 cryptography==41.0.4
-dataclasses-json==0.6.0
+dataclasses-json==0.6.1
 debugpy==1.8.0
 decorator==5.1.1
 distlib==0.3.7
@@ -59,10 +60,10 @@ multidict==6.0.4
 mypy-extensions==1.0.0
 nest-asyncio==1.5.8
 nltk==3.8.1
-numexpr==2.8.6
+numexpr==2.8.7
 numpy==1.26.0
 onnxruntime==1.16.0
-openai==0.28.0
+openai==0.28.1
 overrides==7.4.0
 packaging==23.1
 parso==0.8.3
@@ -71,6 +72,7 @@ pdfminer==20191125
 pdfminer.six==20221105
 pickleshare==0.7.5
 Pillow==10.0.1
+pip-system-certs==4.0
 platformdirs==3.10.0
 posthog==3.0.2
 prompt-toolkit==3.0.39
@@ -107,7 +109,7 @@ tiktoken==0.5.1
 tokenizers==0.14.0
 tornado==6.3.3
 tqdm==4.66.1
-traitlets==5.10.0
+traitlets==5.10.1
 typer==0.9.0
 typing-inspect==0.9.0
 typing_extensions==4.8.0
@@ -118,4 +120,5 @@ virtualenv==20.24.5
 watchfiles==0.20.0
 wcwidth==0.2.6
 websockets==11.0.3
+wrapt==1.15.0
 yarl==1.9.2
