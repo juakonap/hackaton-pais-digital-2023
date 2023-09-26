@@ -1,0 +1,5 @@
+{
+    "_type": "prompt",
+    "input_variables": ["element1", "element2"],
+    "template": "¿Que resulta de mezclar {element1} con {element2}?"
+}
