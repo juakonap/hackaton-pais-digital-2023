@@ -3,7 +3,7 @@
 Repositorio oficial de la Hackatón Summit País Digital by EY colabora Microsoft 2023
 
 # Recursos útiles
-Este repositorio está organizado por cada una de las sesiones que se llevarán a cabo, en este ciclo de capacitación. En cada una de las sesiones, se dejará el material que se haya revisado por parte del expositor
+Este repositorio está organizado por cada una de las sesiones que se llevarán a cabo, en este ciclo de capacitación. En cada una de las sesiones, se dejará el material que se haya revisado por parte del expositor.
 
 # Sesiones de YouTube
 
@@ -15,3 +15,9 @@ En el siguiente listado, se puede tener acceso a la grabación de la sesión res
 * Sesión 04 - Introducción a LangChain: [Link de acceso](https://youtu.be/t7ZhJgGKk-o)
 * Sesión 05 - Casos de uso - Wireframing: [-]()
 * Sesión 06 - Pitch Class y Aclaratorias generales: [-]()
+
+# Repositorios Casos de Uso
+En los siguientes links están los casos de uso vistos de la Sesión 5 facilitada por [Kim Valenzuela](https://github.com/KimValenzuela).
+
+* Caso de Uso 1: [Automatic CV Sorter](https://github.com/KimValenzuela/automatic_cv_sorter)
+* Caso de Uso 2: [Instagram Comment Filter](https://github.com/KimValenzuela/instagram_comments_filter)
