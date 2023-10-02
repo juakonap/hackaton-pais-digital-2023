@@ -13,8 +13,8 @@ En el siguiente listado, se puede tener acceso a la grabación de la sesión res
 * Sesión 02 - LLM & Prompting: [Link de acceso](https://www.youtube.com/watch?v=tiLAPrM0snk)
 * Sesión 03 - APIs de OpenAI: [Link de acceso](https://www.youtube.com/watch?v=iM5fvmQkV1Q)
 * Sesión 04 - Introducción a LangChain: [Link de acceso](https://youtu.be/t7ZhJgGKk-o)
-* Sesión 05 - Casos de uso - Wireframing: [-]()
-* Sesión 06 - Pitch Class y Aclaratorias generales: [-]()
+* Sesión 05 - Casos de uso - Wireframing: [Link de acceso](https://youtu.be/LbgsfWDqC5I)
+* Sesión 06 - Pitch Class y Aclaratorias generales: [Link de acceso](https://youtu.be/UY_M-svjYMw)
 
 # Repositorios Casos de Uso
 En los siguientes links están los casos de uso vistos de la Sesión 5 facilitada por [Kim Valenzuela](https://github.com/KimValenzuela).
